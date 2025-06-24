@@ -18,7 +18,7 @@ It helps you track your income and expenses and visualize them using a **doughnu
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png.png)
 
 ---
 
